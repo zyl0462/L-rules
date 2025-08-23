@@ -1,5 +1,5 @@
-#2025/08/22 20:30:44(UTC/GMT+08:00)
-reject rules(160486+115): 160601
-proxy rules(9835+0): 9835
+#2025/08/23 09:10:28(UTC/GMT+08:00)
+reject rules(160601+57): 160658
+proxy rules(9835+1): 9836
 direct rules(3585+0): 3585
-total rules(173906+115): 174021
+total rules(174021+58): 174079
