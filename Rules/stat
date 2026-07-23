@@ -1,5 +1,5 @@
-#2026/07/22 21:40:53(UTC/GMT+08:00)
-reject rules(191125+157): 191282
-proxy rules(9920+0): 9920
+#2026/07/23 10:22:31(UTC/GMT+08:00)
+reject rules(191282+150): 191432
+proxy rules(9920+1): 9921
 direct rules(3591+0): 3591
-total rules(204636+157): 204793
+total rules(204793+151): 204944
