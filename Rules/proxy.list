@@ -507,6 +507,7 @@ DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api.termius.com
+DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
@@ -7303,6 +7304,7 @@ DOMAIN-SUFFIX,torlock.com
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
@@ -8604,6 +8606,7 @@ DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,youversion.com
+DOMAIN-SUFFIX,youversionapi.com
 DOMAIN-SUFFIX,youwin.com
 DOMAIN-SUFFIX,youxu.info
 DOMAIN-SUFFIX,yoyo.org
